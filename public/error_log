@@ -1,0 +1,3 @@
+[01-Aug-2017 10:46:38 Asia/Rangoon] PHP Fatal error:  Call to a member function delete() on null in /home/thebymm/public_html/the-banyan/app/Http/Controllers/MessagesController.php on line 181
+[01-Aug-2017 10:47:20 Asia/Rangoon] PHP Fatal error:  Call to a member function delete() on null in /home/thebymm/public_html/the-banyan/app/Http/Controllers/MessagesController.php on line 181
+[04-Aug-2017 10:12:01 Asia/Rangoon] PHP Fatal error:  Call to a member function first() on array in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 37
